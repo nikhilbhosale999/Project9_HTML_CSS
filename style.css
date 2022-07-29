@@ -322,3 +322,9 @@ button {
   border-left: 2px solid #fff;
   border-right: 2px solid #fff;
 }
+
+/* register-container */
+
+.register-container{
+  display: flex;
+}
